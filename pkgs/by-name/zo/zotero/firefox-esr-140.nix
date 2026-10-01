@@ -1,8 +1,6 @@
 {
   lib,
-  callPackage,
   fetchurl,
-  nixosTests,
   buildMozillaMach,
 }:
 
